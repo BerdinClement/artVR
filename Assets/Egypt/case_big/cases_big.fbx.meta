@@ -8,7 +8,8 @@ ModelImporter:
       type: UnityEngine:Material
       assembly: UnityEngine.CoreModule
       name: Ceramic Glazed
-    second: {fileID: 2100000, guid: de9f156cc444ce148af9ac488d4caa04, type: 2}
+    second: {fileID: -3408155586236414898, guid: 3b29b159db1f0eb43baf9df40e6cbd69,
+      type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
