@@ -9,11 +9,12 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Concrete  Wall.011
   m_Shader: {fileID: 4800000, guid: 933532a4fcc9baf4fa0491de14d08ed7, type: 3}
-  m_Parent: {fileID: 2100000, guid: c45660175f1a549acb16032a8cc1eebe, type: 2}
+  m_Parent: {fileID: 2100000, guid: fc053a0b49c8a4eb1862d254c373c6b7, type: 2}
   m_ModifiedSerializedProperties: 0
   m_ValidKeywords:
   - _METALLICSPECGLOSSMAP
   - _NORMALMAP
+  - _SMOOTHNESS_TEXTURE_ALBEDO_CHANNEL_A
   m_InvalidKeywords: []
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
