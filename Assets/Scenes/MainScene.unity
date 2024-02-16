@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028326, g: 0.22571333, b: 0.30692202, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -465,7 +465,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 53994680}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 71322104}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -474,8 +474,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 256602770, y: 894418560}
-  m_SizeDelta: {x: 513205540, y: -1.7888371e+9}
+  m_AnchoredPosition: {x: -0.5, y: 0.5}
+  m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &53994682
 MonoBehaviour:
@@ -490,7 +490,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0.20099854, b: 1, a: 0.14117648}
+  m_Color: {r: 0, g: 0.20099854, b: 1, a: 0.46666667}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -10587,7 +10587,7 @@ PrefabInstance:
     - target: {fileID: 6811654550665136418, guid: 67d04c8a63f1045629265f99ca4d1c80,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -0.24
+      value: 0.94
       objectReference: {fileID: 0}
     - target: {fileID: 6811654550665136418, guid: 67d04c8a63f1045629265f99ca4d1c80,
         type: 3}
@@ -19433,6 +19433,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   panel: {fileID: 53994680}
+  canvas: {fileID: 1258189704}
 --- !u!65 &1730564095
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -19452,8 +19453,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 7, y: 4.31, z: 5.36}
-  m_Center: {x: 0, y: 0, z: -2.38}
+  m_Size: {x: 7, y: 4.31, z: 10.6}
+  m_Center: {x: 0, y: 0, z: -5}
 --- !u!54 &1730564097
 Rigidbody:
   m_ObjectHideFlags: 0

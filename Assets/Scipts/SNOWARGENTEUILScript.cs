@@ -8,10 +8,12 @@ public class SNOWARGENTEUILScript : MonoBehaviour
 {
     
     public GameObject panel;
+    public GameObject canvas;
 
     public void Start()
     {
-        panel.transform.position = new Vector3((float)-12.63, (float)1.26, (float)27.25);
+        panel.transform.position = canvas.transform.position;
+        panel.transform.localScale = new Vector3(1, 1, 1);
         panel.SetActive(false);
     }
 
