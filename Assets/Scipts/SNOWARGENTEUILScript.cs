@@ -9,19 +9,37 @@ public class SNOWARGENTEUILScript : MonoBehaviour
     
     public GameObject panel;
 
-    private void OnCollisionEnter(Collision other)
+    public void Start()
     {
-        if (other.gameObject.tag == "Player")
+        panel.transform.position = new Vector3((float)-12.63, (float)1.26, (float)27.25);
+        panel.SetActive(false);
+    }
+
+    public void OpenPanel()
+    {
+        if (panel == null) return;
+        panel.SetActive(true);
+    }
+    
+    public void ClosePanel()
+    {
+        if (panel == null) return;
+        panel.SetActive(false);
+    }
+
+    public void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.CompareTag("Player"))
         {
-            panel.SetActive(true);
+            OpenPanel();
         }
     }
     
-    private void OnCollisionExit(Collision other)
+    public void OnTriggerExit(Collider other)
     {
-        if (other.gameObject.tag == "Player")
+        if (other.gameObject.CompareTag("Player"))
         {
-            panel.SetActive(false);
+            ClosePanel();
         }
     }
 }
