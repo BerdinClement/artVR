@@ -63,6 +63,7 @@ Library: /Users/clem/Desktop/Cours/BUT3/SAE/VR/artVR/Temp/BurstOutput/tempburstl
 --assembly-defines=mscorlib;
 --generate-link-xml=Temp/burst.link.xml
 --temp-folder=/Users/clem/Desktop/Cours/BUT3/SAE/VR/artVR/Temp/Burst
+--debug=Full
 --key-folder=/Applications/Unity/Hub/Editor/2022.3.14f1/PlaybackEngines/AndroidPlayer
 --decode-folder=/Users/clem/Desktop/Cours/BUT3/SAE/VR/artVR/Library/Burst
 --output=/Users/clem/Desktop/Cours/BUT3/SAE/VR/artVR/Temp/BurstOutput/tempburstlibs/armeabi-v7a/lib_burst_generated
@@ -192,6 +193,7 @@ Library: /Users/clem/Desktop/Cours/BUT3/SAE/VR/artVR/Temp/BurstOutput/tempburstl
 --assembly-defines=mscorlib;
 --generate-link-xml=Temp/burst.link.xml
 --temp-folder=/Users/clem/Desktop/Cours/BUT3/SAE/VR/artVR/Temp/Burst
+--debug=Full
 --key-folder=/Applications/Unity/Hub/Editor/2022.3.14f1/PlaybackEngines/AndroidPlayer
 --decode-folder=/Users/clem/Desktop/Cours/BUT3/SAE/VR/artVR/Library/Burst
 --output=/Users/clem/Desktop/Cours/BUT3/SAE/VR/artVR/Temp/BurstOutput/tempburstlibs/armeabi-v7a/lib_burst_generated
