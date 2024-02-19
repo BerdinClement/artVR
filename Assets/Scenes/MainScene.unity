@@ -5400,7 +5400,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 270181632}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5408,8 +5408,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -0.1, y: 43.1}
+  m_SizeDelta: {x: 258.14, y: 91.36}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &270181634
 MonoBehaviour:
@@ -5431,7 +5431,17 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Self-Portrait
+
+    Vincent van Gogh
+
+    1889
+
+    Like Rembrandt and
+    Goya, Vincent van Gogh often used himself as a model; he produced over forty-three
+    self-portraits, paintings or drawings in ten years. Like the old masters, he
+    observed himself critically in a mirror. Painting oneself is not an innocuous
+    act: it is a questioning which often leads to an identity crisis.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5458,8 +5468,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -5494,7 +5504,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0.84038925, w: 0.87662315}
+  m_margin: {x: 0, y: 0, z: 0.84038925, w: -85.25616}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -39356,7 +39366,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1956083572}
   m_LocalRotation: {x: -0.013848842, y: 0.9882508, z: -0.12501697, w: -0.086829804}
-  m_LocalPosition: {x: 0, y: 0, z: 33.77}
+  m_LocalPosition: {x: 0, y: 0, z: 33.763}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -39365,8 +39375,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 190, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -21.354, y: 0.783}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -21.355, y: 0.818}
+  m_SizeDelta: {x: 100, y: 194.8476}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1959293039
 PrefabInstance:
