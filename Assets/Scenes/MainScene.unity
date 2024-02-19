@@ -43089,7 +43089,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1392607042}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0.000043083}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -43097,8 +43097,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -2.67, y: 5.1697}
+  m_SizeDelta: {x: 222.1, y: 39.829}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1392607044
 MonoBehaviour:
@@ -43120,7 +43120,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Vision: vase of flowers
+
+    Odilon Redon
+
+    1900'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -43147,8 +43151,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -43183,7 +43187,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0.84038925, w: 0.87662315}
+  m_margin: {x: 0, y: 1.0262775, z: 0.84038925, w: -7.2929993}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -50288,7 +50292,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1645619693}
   m_LocalRotation: {x: -0.002900192, y: 0.9920579, z: -0.12574825, w: -0.00036761368}
-  m_LocalPosition: {x: 0, y: 0, z: 14.477}
+  m_LocalPosition: {x: 0, y: 0, z: 14.4451}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -50297,8 +50301,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 180, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -44.913, y: 0.954}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -44.9138, y: 1.0777}
+  m_SizeDelta: {x: 100, y: 57.3452}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1649105205
 GameObject:
