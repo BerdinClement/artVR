@@ -547,7 +547,7 @@ GameObject:
   - component: {fileID: 22315260}
   - component: {fileID: 22315259}
   m_Layer: 0
-  m_Name: CanvasHyeroglyphe (16)
+  m_Name: Colossal Head of Ramses II
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -561,7 +561,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 22315257}
   m_LocalRotation: {x: -0.09224682, y: 0.69074345, z: -0.08550763, w: -0.71207625}
-  m_LocalPosition: {x: 0, y: 0, z: 26.394}
+  m_LocalPosition: {x: 0, y: 0, z: 26.8319}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -570,8 +570,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 271.7, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -2.371, y: 1.208}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -2.371, y: 1.0962}
+  m_SizeDelta: {x: 182.9872, y: 137.8832}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &22315259
 MonoBehaviour:
@@ -2303,7 +2303,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 74400424}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -7.8}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2311,8 +2311,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -5.2, y: 35.5}
+  m_SizeDelta: {x: 412.14, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &74400426
 MonoBehaviour:
@@ -2334,7 +2334,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "Date : 1213 B.C.E\nThe \"Colossal Head of Ramses II\" is a stone sculpture
+    depicting the famous Egyptian pharaoh \r\nRamses II. It comes from his funerary
+    temple, the Ramesseum. This head bears witness to the \r\ngreatness and power
+    of Ramses II, and it was meant to honor the pharaoh as a deity after his \r\ndeath."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2361,8 +2364,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -10964,7 +10967,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 329750442}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -4.9}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -10972,8 +10975,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 1.6, y: 20.5}
+  m_SizeDelta: {x: 356.97, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &329750444
 MonoBehaviour:
@@ -10995,7 +10998,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "Date :  1391-1353 BC\nThis statue represents King Amenhotep III, who was
+    famous for bringing peace to Egypt during \r\nhis reign. This portrait is important
+    because it shows us what this powerful king of ancient Egypt \r\nlooked like."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11022,8 +11027,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -12805,7 +12810,7 @@ GameObject:
   - component: {fileID: 381352740}
   - component: {fileID: 381352739}
   m_Layer: 0
-  m_Name: CanvasHyeroglyphe (21)
+  m_Name: false_door
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12828,8 +12833,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 353.4, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -8.621, y: 1.088}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -8.37371, y: 1.1595}
+  m_SizeDelta: {x: 146.8858, y: 124.296}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &381352739
 MonoBehaviour:
@@ -13061,7 +13066,7 @@ GameObject:
   - component: {fileID: 383784121}
   - component: {fileID: 383784120}
   m_Layer: 0
-  m_Name: CanvasHyeroglyphe (15)
+  m_Name: head_of_amenhotep_iii_c._1391-1353_bc
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13075,7 +13080,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 383784118}
   m_LocalRotation: {x: -0.09224682, y: 0.69074345, z: -0.08550763, w: -0.71207625}
-  m_LocalPosition: {x: 0, y: 0, z: 26.609}
+  m_LocalPosition: {x: 0, y: 0, z: 26.8816}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -13084,8 +13089,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 271.7, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -9.336, y: 1.067}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -9.336, y: 0.6112}
+  m_SizeDelta: {x: 151.6074, y: 122.3413}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &383784120
 MonoBehaviour:
@@ -13422,7 +13427,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 394343362}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0.7}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -13430,8 +13435,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 6.3, y: 7.5}
+  m_SizeDelta: {x: 343.97, y: 64.42}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &394343364
 MonoBehaviour:
@@ -13453,7 +13458,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "Date : 3100 BC to 332 BC\nThe Eye of Horus is a symbol in Egyptian mythology.
+    It's a symbol of protection, healing, and \r\npower. People had it to protect
+    themselves from evil and ensure their health and safety"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -13480,8 +13487,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -15839,7 +15846,7 @@ GameObject:
   - component: {fileID: 470650213}
   - component: {fileID: 470650212}
   m_Layer: 0
-  m_Name: CanvasHyeroglyphe (22)
+  m_Name: Mummy Case of Nes-Khonsu-Pa-Khered
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -15853,7 +15860,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 470650210}
   m_LocalRotation: {x: -0.09224682, y: 0.69074345, z: -0.08550763, w: -0.71207625}
-  m_LocalPosition: {x: 0, y: 0, z: 31.45}
+  m_LocalPosition: {x: 0, y: 0, z: 31.6383}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -15862,8 +15869,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 271.7, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -9.68, y: 0.91}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -9.68, y: 0.914}
+  m_SizeDelta: {x: 133.2877, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &470650212
 MonoBehaviour:
@@ -17392,7 +17399,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 520684973}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -2.3}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -17400,9 +17407,9 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
-  m_Pivot: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: -3.4, y: 7.5}
+  m_SizeDelta: {x: 339.81, y: 78.98}
+  m_Pivot: {x: 0.47835273, y: 0.499619}
 --- !u!114 &520684975
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -17423,7 +17430,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "Date : 2400 BCE\nIn ancient Egypt, people made special doors to honor
+    the deceased. Visitors could pray and \r\nleave gifts for the spirit of the deceased.
+    This door celebrates a priest named Iryenakhet, and its \r\nsymmetry was important
+    to the Egyptians."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -17450,8 +17460,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -20320,7 +20330,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 622072565}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -7.3}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -20328,8 +20338,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 5.1, y: 24.1}
+  m_SizeDelta: {x: 359.72, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &622072567
 MonoBehaviour:
@@ -20351,7 +20361,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "Date : unknown\nThe coffin of Peftjaoeneith, an ancient Egyptian, is colorful
+    and decorated with drawings of the \r\ngods. The decoration is an indication
+    of his high rank in society. The coffin is made of solid wood, \r\nwhich must
+    have cost a fortune in Egypt."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -20378,8 +20391,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -25565,7 +25578,7 @@ GameObject:
   - component: {fileID: 860349841}
   - component: {fileID: 860349840}
   m_Layer: 0
-  m_Name: CanvasHyeroglyphe (12)
+  m_Name: Mummiekist van Peftjaoeneith
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -25670,8 +25683,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 160, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -0.028, y: 1.311}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -0.2544, y: 1.2397}
+  m_SizeDelta: {x: 142.4838, y: 124.2607}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &862927921
 PrefabInstance:
@@ -28186,7 +28199,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 918769027}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.8}
+  m_LocalPosition: {x: 0, y: 0, z: 2.37}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -28195,8 +28208,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0, y: 0}
-  m_SizeDelta: {x: -1, y: -1}
+  m_AnchoredPosition: {x: 0.02999878, y: -8.779999}
+  m_SizeDelta: {x: -1, y: 17.43}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &922466055
 GameObject:
@@ -35221,7 +35234,9 @@ GameObject:
   - component: {fileID: 1166744043}
   - component: {fileID: 1166744042}
   m_Layer: 0
-  m_Name: CanvasHyeroglyphe (19)
+  m_Name: The Eye of Horus is a symbol in Egyptian mythology. It's a symbol of protection,
+    healing, and  power. People had it to protect themselves from evil and ensure
+    their health and safety
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -35244,8 +35259,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 331.3, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -1.814, y: 1.688}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -2.415, y: 1.7631}
+  m_SizeDelta: {x: 140.2686, y: 125.5264}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1166744042
 MonoBehaviour:
@@ -41445,7 +41460,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1360183860}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -3.5}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -41453,8 +41468,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 1.6, y: 12.2}
+  m_SizeDelta: {x: 350.17, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1360183862
 MonoBehaviour:
@@ -41476,7 +41491,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "Date : 664 B.C.E\nThis coffin belonged to a man named Na-menkh-amen, who
+    was a priest. However, when it was \r\ndiscovered by archaeologists in 1890,
+    it only contained embalming materials."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -41503,8 +41520,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -45607,7 +45624,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: d777696ad94122d4198d9042825bb550,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.007
+      value: 0.971
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: d777696ad94122d4198d9042825bb550,
         type: 3}
@@ -45673,7 +45690,7 @@ GameObject:
   - component: {fileID: 1527393723}
   - component: {fileID: 1527393722}
   m_Layer: 0
-  m_Name: CanvasHyeroglyphe (18)
+  m_Name: osiris
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45696,8 +45713,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 361.1, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -6.214, y: 1.402}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -6.3886, y: 1.3006}
+  m_SizeDelta: {x: 133.1362, y: 134.5261}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1527393722
 MonoBehaviour:
@@ -46198,7 +46215,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1554808777}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -3.5}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -46206,8 +46223,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 4.7, y: 13.3}
+  m_SizeDelta: {x: 339.85, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1554808779
 MonoBehaviour:
@@ -46229,7 +46246,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "Date : 332 B.C.E \nSarcophages were special boxes used to put the bodies
+    of deceased people in ancient Egypt. \r\nThey were made from wood or stone and
+    decorated with drawings and writings."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -46256,8 +46275,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -47834,7 +47853,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1604544166}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -4.4}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -47842,8 +47861,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 5.2, y: 18.2}
+  m_SizeDelta: {x: 344.18, y: 70.92}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1604544168
 MonoBehaviour:
@@ -47865,7 +47884,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "Date :  664\u2013525 B.C\nThis statue shows Osiris, a god of Egypt, dressed
+    in special clothing and holding a large stick \r\ncalled a \"scepter.\" Osiris
+    was an important god who took care of protecting people's souls after \r\ntheir
+    death, ensuring that they felt safe and happy in the afterlife."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -47892,8 +47914,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -50773,7 +50795,7 @@ GameObject:
   - component: {fileID: 1722220914}
   - component: {fileID: 1722220913}
   m_Layer: 0
-  m_Name: CanvasHyeroglyphe (14)
+  m_Name: Egyptian Anthropoid Coffin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -50787,7 +50809,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1722220911}
   m_LocalRotation: {x: -0.09224682, y: 0.69074345, z: -0.08550763, w: -0.71207625}
-  m_LocalPosition: {x: 0, y: 0, z: 22.012}
+  m_LocalPosition: {x: 0, y: 0, z: 22.238}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -50797,7 +50819,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -9.066, y: 1.2}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 142.7339, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1722220913
 MonoBehaviour:
