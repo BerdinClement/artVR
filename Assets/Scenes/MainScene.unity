@@ -18232,7 +18232,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 842377092}
   m_LocalRotation: {x: -0.013848842, y: 0.9882508, z: -0.12501697, w: -0.086829804}
-  m_LocalPosition: {x: 0, y: 0, z: 33.761}
+  m_LocalPosition: {x: 0, y: 0, z: 33.7228}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -18241,8 +18241,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 190, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -15.700999, y: 0.6430008}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -15.7086, y: 0.794}
+  m_SizeDelta: {x: 100, y: 152.0576}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &844852124
 GameObject:
@@ -39720,8 +39720,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -0.61, y: 0.57}
+  m_SizeDelta: {x: 256.15, y: 85.46}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1991155960
 MonoBehaviour:
@@ -39743,7 +39743,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'The Starry Night
+
+    Vincent van Gogh
+
+    1839
+
+    Below the exploding
+    stars, the village is a place of quiet order. Connecting earth and sky is the
+    flamelike cypress, a tree traditionally associated with graveyards and mourning.
+    But death was not ominous for van Gogh.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -39770,8 +39779,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -39806,7 +39815,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0.84038925, w: 0.87662315}
+  m_margin: {x: 0, y: -27.056438, z: 0.84038925, w: 0.87662315}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
