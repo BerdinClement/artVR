@@ -21271,7 +21271,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 958861733}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -21279,8 +21279,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -0.1, y: 35.3}
+  m_SizeDelta: {x: 252.07, y: 87.05}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &958861735
 MonoBehaviour:
@@ -21302,7 +21302,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "Starry Night\nVincent van Gogh\n1888\nNext came this view of the Rh\xF4ne
+    in which he marvellously transcribed the colours he perceived in the dark. Blues
+    prevail: Prussian blue, ultramarine and cobalt. The city gas lights glimmer an
+    intense orange and are reflected in the water."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -21329,8 +21332,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -21365,7 +21368,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0.84038925, w: 0.87662315}
+  m_margin: {x: 0, y: 0, z: 0.84038925, w: -72.977936}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -30245,7 +30248,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1502064083}
   m_LocalRotation: {x: -0.013848842, y: 0.9882508, z: -0.12501697, w: -0.086829804}
-  m_LocalPosition: {x: 0, y: 0, z: 33.68}
+  m_LocalPosition: {x: 0, y: 0, z: 33.883}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -30254,8 +30257,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 190, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -24.564, y: 0.723}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -24.528, y: 0.868}
+  m_SizeDelta: {x: 100, y: 175.7047}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1507717063
 PrefabInstance:
