@@ -5262,7 +5262,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 279574441}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 63.2}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -5270,8 +5270,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 0.3, y: -9}
+  m_SizeDelta: {x: 348.88, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &279574443
 MonoBehaviour:
@@ -5293,7 +5293,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Workers are moving big ceramic pots inside the ancient tomb of Kagemni,
+    an important vizier in
+
+    Egypt a long time ago. The tomb is located in a
+    place called Saqqarah.f'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5320,8 +5324,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -12100,7 +12104,7 @@ GameObject:
   - component: {fileID: 556766222}
   - component: {fileID: 556766221}
   m_Layer: 0
-  m_Name: CanvasPyramide (1)
+  m_Name: moving_large_vessels_mastaba_of_kagemni
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12114,7 +12118,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 556766219}
   m_LocalRotation: {x: 0.094464526, y: 0.6379641, z: -0.08305108, w: 0.75972426}
-  m_LocalPosition: {x: 0, y: 0, z: 4.132}
+  m_LocalPosition: {x: 0, y: 0, z: 4.0137}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -12123,8 +12127,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 80, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 33.714, y: 1.003}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 33.714, y: 0.8318}
+  m_SizeDelta: {x: 122.0085, y: 69.4107}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &556766221
 MonoBehaviour:
