@@ -11235,7 +11235,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 334644007}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -2.25}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -11243,8 +11243,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 7.22, y: 6.73}
+  m_SizeDelta: {x: 596.47, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &334644009
 MonoBehaviour:
@@ -11266,7 +11266,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "Date : 945-715 B.C.E\nKhonsu was an Egyptian god who watched over the
+    moon and time. People believed he \r\nprotected them when they traveled at night
+    and helped them after they died. He was often \r\ndepicted as a young man holding
+    a sickle and a symbol called an ankh."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -11293,8 +11296,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -24028,7 +24031,7 @@ GameObject:
   - component: {fileID: 810347380}
   - component: {fileID: 810347379}
   m_Layer: 0
-  m_Name: CanvasHyeroglyphe (11)
+  m_Name: khonsu
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -24042,7 +24045,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 810347377}
   m_LocalRotation: {x: -0.06103542, y: -0.8562871, z: 0.109980494, w: -0.50095046}
-  m_LocalPosition: {x: 0, y: 0, z: 25.157}
+  m_LocalPosition: {x: 0, y: 0, z: 24.5791}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -24051,8 +24054,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: -240.7, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 11.982, y: 1.315}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 11.8903, y: 1.293}
+  m_SizeDelta: {x: 218.5961, y: 92.4812}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &810347379
 MonoBehaviour:
@@ -30927,7 +30930,7 @@ GameObject:
   - component: {fileID: 1008365971}
   - component: {fileID: 1008365970}
   m_Layer: 0
-  m_Name: CanvasHyeroglyphe (5)
+  m_Name: Granite head of Amenemhat III
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30950,8 +30953,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 180, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 21.255, y: 0.893}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 21.1179, y: 0.9267}
+  m_SizeDelta: {x: 126.075, y: 111.4193}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1008365970
 MonoBehaviour:
@@ -31049,7 +31052,7 @@ GameObject:
   - component: {fileID: 1017846637}
   - component: {fileID: 1017846636}
   m_Layer: 0
-  m_Name: CanvasHyeroglyphe (10)
+  m_Name: cleopatra
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -31072,8 +31075,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: -318.1, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 11.487, y: 0.827}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 11.1564, y: 0.8727}
+  m_SizeDelta: {x: 103.6438, y: 115.5498}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1017846636
 MonoBehaviour:
@@ -37263,7 +37266,7 @@ GameObject:
   - component: {fileID: 1215451450}
   - component: {fileID: 1215451449}
   m_Layer: 0
-  m_Name: CanvasHyeroglyphe (2)
+  m_Name: column
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -37286,8 +37289,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 40, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 32.298, y: 0.797}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 32.5161, y: 0.797}
+  m_SizeDelta: {x: 148.4484, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1215451449
 MonoBehaviour:
@@ -40484,7 +40487,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1322867918}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -4.1}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -40492,8 +40495,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 4, y: 17.1}
+  m_SizeDelta: {x: 380.49, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1322867920
 MonoBehaviour:
@@ -40515,7 +40518,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Date : 1345 BCE
+
+    Nefertiti was a queen of ancient Egypt known for
+    her beauty. She lived a long time ago with her husband, Pharaoh Akhenaten, and
+    they worshipped the sun god Aten. People remember her because of a famous statue
+    of her face.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -40542,8 +40550,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -46622,7 +46630,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1563841823}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -3.6}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -46630,8 +46638,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 2.9, y: 13.3}
+  m_SizeDelta: {x: 300.01, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1563841825
 MonoBehaviour:
@@ -46653,7 +46661,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "Date : 1800 BC. \nAmenemhat III was an important king a long time ago.
+    He worked hard to make his country \r\nbetter by building things like canals
+    for agriculture and mines for precious stones"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -46680,8 +46690,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -55200,7 +55210,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.49999237, y: 0.5}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1872638787
@@ -55317,7 +55327,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1873954599}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -4.4}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -55325,8 +55335,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -0.8, y: 22.6}
+  m_SizeDelta: {x: 228.87, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1873954601
 MonoBehaviour:
@@ -55348,7 +55358,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "Date :  51 - 30 B.C.E\nCleopatra was a famous queen of ancient Egypt.
+    She was very intelligent and spoke several \r\nlanguages. People remember her
+    for her beauty and courage."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -55375,8 +55387,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -57208,7 +57220,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1956414735}
   m_LocalRotation: {x: -0.09239591, y: 0.6894997, z: -0.08534651, w: -0.7132807}
-  m_LocalPosition: {x: 0, y: 0, z: 35.648}
+  m_LocalPosition: {x: 0, y: 0, z: 35.935}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -57217,8 +57229,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 271.9, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 11.928, y: 0.492}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 11.928, y: 0.4735}
+  m_SizeDelta: {x: 154.389, y: 106.2921}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1956414737
 MonoBehaviour:
@@ -58776,7 +58788,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2033812094}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 20.8}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -58784,8 +58796,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 8.2, y: 18}
+  m_SizeDelta: {x: 393.19, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2033812096
 MonoBehaviour:
@@ -58807,7 +58819,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Date : 3100 B.C.E
+
+    The painted columns of ancient Egypt were adorned
+    with colorful images. They were used in buildings to make them beautiful and
+    intriguing. These paintings often told stories about the lives of the Egyptians
+    and their beliefs
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -58834,8 +58853,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
