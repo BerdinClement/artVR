@@ -20415,8 +20415,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 2.32, y: -2.31}
+  m_SizeDelta: {x: 267.68, y: 163.59}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &616752675
 MonoBehaviour:
@@ -20438,7 +20438,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "The Burghers of Calais\nAuguste Rodin\n1884\u201389\nIt commemorates an
+    event during the Hundred Years' War, when Calais, a French port on the English
+    Channel, surrendered to the English after an eleven-month siege. The city commissioned
+    Rodin to create the sculpture in 1884 and the work was completed in 1889."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -20465,8 +20468,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -48695,7 +48698,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1595133486}
   m_LocalRotation: {x: 0.11035127, y: -0.4957106, z: 0.060362484, w: 0.8593312}
-  m_LocalPosition: {x: 0, y: 0, z: 28.888}
+  m_LocalPosition: {x: 0, y: 0, z: 28.98}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -48704,8 +48707,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: -60, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -44.163, y: 1.015}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -44.09, y: 0.95}
+  m_SizeDelta: {x: 113.6587, y: 179.1206}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1600357959
 GameObject:
