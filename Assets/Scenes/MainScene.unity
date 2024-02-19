@@ -5765,7 +5765,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.4999962, y: 0.5}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &183861001
@@ -11738,7 +11738,7 @@ GameObject:
   - component: {fileID: 355565460}
   - component: {fileID: 355565459}
   m_Layer: 0
-  m_Name: CanvasFleur (29)
+  m_Name: tori
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11843,8 +11843,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 497.7, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.361, y: 1.141}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 1.0962, y: 1.141}
+  m_SizeDelta: {x: 160.5764, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &356405523
 PrefabInstance:
@@ -29443,7 +29443,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 949468671}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 12.7}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -29451,8 +29451,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 2.7, y: 13.1}
+  m_SizeDelta: {x: 336.37, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &949468673
 MonoBehaviour:
@@ -29474,7 +29474,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: The Eiffel Tower is located in Paris. It stands at a height of 324 meters
+    and provides a view of the entire city. It was built for a temporary exhibition
+    but has become one of the most famous landmarks in the world.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -29501,8 +29503,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -39215,7 +39217,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1247367936}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -3.3}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -39223,8 +39225,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 0.1, y: 15}
+  m_SizeDelta: {x: 376.12, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1247367938
 MonoBehaviour:
@@ -39246,7 +39248,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: The Torii gate of Fushimi Inari Shrine in Kyoto, Japan, is famous for its
+    thousands of red gates lining a mountain trail. It's an iconic symbol of Japanese
+    culture and an important pilgrimage site. Visitors come from far and wide to
+    see this unique spectacle and learn about Japanese spirituality.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -39273,8 +39278,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -39426,7 +39431,7 @@ GameObject:
   - component: {fileID: 1249912730}
   - component: {fileID: 1249912729}
   m_Layer: 0
-  m_Name: CanvasFleur (28)
+  m_Name: pisa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -39449,8 +39454,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 497.7, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -5.441, y: 0.709}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -5.631301, y: 0.709}
+  m_SizeDelta: {x: 143.5415, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1249912729
 MonoBehaviour:
@@ -45834,7 +45839,7 @@ GameObject:
   - component: {fileID: 1492621799}
   - component: {fileID: 1492621798}
   m_Layer: 0
-  m_Name: CanvasFleur (32)
+  m_Name: eiffel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45848,7 +45853,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1492621796}
   m_LocalRotation: {x: -0.051117506, y: -0.89705926, z: 0.1149262, w: -0.42363155}
-  m_LocalPosition: {x: 0, y: 0, z: -12.392}
+  m_LocalPosition: {x: 0, y: 0, z: -12.5109}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -45857,8 +45862,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 489.4, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -17.181, y: 0.986}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -17.132309, y: 0.986}
+  m_SizeDelta: {x: 124.6951, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1492621798
 MonoBehaviour:
@@ -59590,7 +59595,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1964930589}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -4.4}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -59598,8 +59603,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -1.6, y: 30.3}
+  m_SizeDelta: {x: 318.96, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1964930591
 MonoBehaviour:
@@ -59621,7 +59626,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: '
+
+    The Leaning Tower of Pisa is located in Italy. It''s famous because
+    it leans to one side. It''s an iconic symbol of Italian architecture. Thousands
+    of tourists visit every year to see this historic structure and take photos "holding
+    up" the tower.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -59648,8 +59658,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
