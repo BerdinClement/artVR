@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028326, g: 0.22571333, b: 0.30692202, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -26274,7 +26274,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1258189704}
   m_LocalRotation: {x: 0.12041605, y: 0.26497912, z: -0.03633596, w: 0.9560155}
-  m_LocalPosition: {x: 0, y: 0, z: 26.782}
+  m_LocalPosition: {x: 0, y: 0, z: 26.7726}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -26283,8 +26283,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 30.941, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -12.103, y: 0.485}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -12.1091, y: 0.4244}
+  m_SizeDelta: {x: 100, y: 135.3741}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1258868698
 PrefabInstance:
@@ -39048,7 +39048,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1936945401}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -39056,7 +39056,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -9.4, y: 38.3}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1936945403
@@ -39079,7 +39079,17 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Snow Scene at Argenteuil
+
+    Claude Monet
+
+    1875
+
+    The scene shows
+    the boulevard running towards the Seine, looking away from the railway station.
+    It is a relatively large work, which sacrifices details in favour of atmosphere.
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -39106,8 +39116,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -39142,7 +39152,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0.84038925, w: 0.87662315}
+  m_margin: {x: 0, y: 0, z: -54.123814, w: -41.939445}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
