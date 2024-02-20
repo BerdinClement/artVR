@@ -5759,7 +5759,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 179274259}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 5.42}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -5768,8 +5768,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.5, y: 0.5}
-  m_SizeDelta: {x: -1, y: -1}
+  m_AnchoredPosition: {x: 4.33, y: -1.96}
+  m_SizeDelta: {x: 13.73, y: 7.91}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &183861001
 PrefabInstance:
@@ -11741,7 +11741,7 @@ GameObject:
   - component: {fileID: 355565460}
   - component: {fileID: 355565459}
   m_Layer: 0
-  m_Name: CanvasFleur (29)
+  m_Name: tori
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -11846,8 +11846,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 497.7, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.361, y: 1.141}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 1.1483, y: 1.141}
+  m_SizeDelta: {x: 148.6689, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &356405523
 PrefabInstance:
@@ -21149,7 +21149,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 643206806}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -8.88}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -21158,8 +21158,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.5, y: 0.5}
-  m_SizeDelta: {x: -1, y: -1}
+  m_AnchoredPosition: {x: 6.66, y: 4.43}
+  m_SizeDelta: {x: 23.14, y: 13.06}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &643206808
 MonoBehaviour:
@@ -29496,7 +29496,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 949468671}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0.4}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -29504,8 +29504,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 6.3, y: 10.4}
+  m_SizeDelta: {x: 319.25, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &949468673
 MonoBehaviour:
@@ -29527,7 +29527,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: The Eiffel Tower is located in Paris. It stands at a height of 324 meters
+    and provides a view of the entire city. It was built for a temporary exhibition
+    but has become one of the most famous landmarks in the world.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -29554,8 +29556,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -39282,7 +39284,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1247367936}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -6.4}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -39290,8 +39292,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 4.2, y: 12.2}
+  m_SizeDelta: {x: 387.45, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1247367938
 MonoBehaviour:
@@ -39313,7 +39315,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: The Torii gate of Fushimi Inari Shrine in Kyoto, Japan, is famous for its
+    thousands of red gates lining a mountain trail. It's an iconic symbol of Japanese
+    culture and an important pilgrimage site. Visitors come from far and wide to
+    see this unique spectacle and learn about Japanese spirituality.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -39340,8 +39345,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -39493,7 +39498,7 @@ GameObject:
   - component: {fileID: 1249912730}
   - component: {fileID: 1249912729}
   m_Layer: 0
-  m_Name: CanvasFleur (28)
+  m_Name: pisa
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -39516,8 +39521,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 497.7, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -5.441, y: 0.709}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -5.629, y: 0.7416}
+  m_SizeDelta: {x: 142.7276, y: 111.0721}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1249912729
 MonoBehaviour:
@@ -45915,7 +45920,7 @@ GameObject:
   - component: {fileID: 1492621799}
   - component: {fileID: 1492621798}
   m_Layer: 0
-  m_Name: CanvasFleur (32)
+  m_Name: eiffel
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -45929,7 +45934,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1492621796}
   m_LocalRotation: {x: -0.051117506, y: -0.89705926, z: 0.1149262, w: -0.42363155}
-  m_LocalPosition: {x: 0, y: 0, z: -12.392}
+  m_LocalPosition: {x: 0, y: 0, z: -12.4992}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -45939,7 +45944,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: -17.181, y: 0.986}
-  m_SizeDelta: {x: 100, y: 100}
+  m_SizeDelta: {x: 122.7863, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1492621798
 MonoBehaviour:
@@ -59719,7 +59724,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1964930589}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -15.1}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -59727,8 +59732,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 2.5, y: 31.7}
+  m_SizeDelta: {x: 322.92, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1964930591
 MonoBehaviour:
@@ -59750,7 +59755,12 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: '
+
+    The Leaning Tower of Pisa is located in Italy. It''s famous because
+    it leans to one side. It''s an iconic symbol of Italian architecture. Thousands
+    of tourists visit every year to see this historic structure and take photos "holding
+    up" the tower.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -59777,8 +59787,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
