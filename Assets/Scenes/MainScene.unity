@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028326, g: 0.22571333, b: 0.30692202, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -56464,6 +56464,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1842667579}
+  - component: {fileID: 1842667580}
   m_Layer: 0
   m_Name: UIManager
   m_TagString: Untagged
@@ -56487,6 +56488,32 @@ Transform:
   - {fileID: 12364962}
   m_Father: {fileID: 1731298971}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1842667580
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1842667578}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 498739cd09d6af444be67b6b62323fc8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  menu: {fileID: 12364957}
+  showMenu:
+    m_UseReference: 1
+    m_Action:
+      m_Name: Show Menu
+      m_Type: 0
+      m_ExpectedControlType: 
+      m_Id: abc013ae-4970-4835-b032-333a5767745b
+      m_Processors: 
+      m_Interactions: 
+      m_SingletonActionBindings: []
+      m_Flags: 0
+    m_Reference: {fileID: -5149999586123519380, guid: c348712bda248c246b8c49b3db54643f,
+      type: 3}
 --- !u!1 &1843464706
 GameObject:
   m_ObjectHideFlags: 0
