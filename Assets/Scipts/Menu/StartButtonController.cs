@@ -1,23 +1,24 @@
 using UnityEngine;
-using UnityEngine.UI;
 
 public class StartButtonController : MonoBehaviour
 {
-    public GameObject selectionPanel; 
-    public Button startButton; 
+    public GameObject panelToShow; 
+    private bool isPanelActive = false; 
 
-    private bool panelActive = false; 
-
-    private void Start()
+    private void Update()
     {
-        startButton.onClick.AddListener(TogglePanel);
+        
+        if (Input.GetButtonDown("StartButton"))
+        {
+            TogglePanel(); 
+        }
     }
 
-    void TogglePanel()
+    private void TogglePanel()
     {
-        panelActive = !panelActive; 
+        isPanelActive = !isPanelActive; 
 
         
-        selectionPanel.SetActive(panelActive);
+        panelToShow.SetActive(isPanelActive);
     }
 }
