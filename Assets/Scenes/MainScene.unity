@@ -1143,7 +1143,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 31356675}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -2.7}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1151,8 +1151,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 0.6, y: 13.8}
+  m_SizeDelta: {x: 362.09, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &31356677
 MonoBehaviour:
@@ -1174,7 +1174,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: The Empire State Building, located in New York City, USA, is an iconic
+    skyscraper. Built in 1931, it was the tallest building in the world at the time.
+    With its 102 floors, it offers spectacular views of the city. It is an iconic
+    symbol of New York and a popular tourist attraction.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1201,8 +1204,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -6833,7 +6836,7 @@ GameObject:
   - component: {fileID: 213759611}
   - component: {fileID: 213759610}
   m_Layer: 0
-  m_Name: CanvasFleur (35)
+  m_Name: bigbe
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -6856,8 +6859,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 688.5, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -15.732, y: 0.85}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -15.5787, y: 0.85}
+  m_SizeDelta: {x: 131.6237, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &213759610
 MonoBehaviour:
@@ -30355,7 +30358,7 @@ GameObject:
   - component: {fileID: 978508228}
   - component: {fileID: 978508227}
   m_Layer: 0
-  m_Name: CanvasFleur (23)
+  m_Name: buckingam
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30460,8 +30463,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: -38, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -25.754, y: 0.953}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -25.5359, y: 0.953}
+  m_SizeDelta: {x: 147.8644, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &978735468
 GameObject:
@@ -33790,7 +33793,7 @@ GameObject:
   - component: {fileID: 1102041691}
   - component: {fileID: 1102041690}
   m_Layer: 0
-  m_Name: CanvasFleur (25)
+  m_Name: empire_state_building
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -33895,8 +33898,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: -38, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -15.979, y: 0.894}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -15.7261, y: 0.894}
+  m_SizeDelta: {x: 155.2107, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1105824962
 GameObject:
@@ -33924,7 +33927,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1105824962}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -3}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -33932,8 +33935,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 1.3, y: 15.4}
+  m_SizeDelta: {x: 327.69, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1105824964
 MonoBehaviour:
@@ -33955,7 +33958,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: Big Ben is the nickname for the Great Bell of the clock at the north end
+    of the Palace of Westminster in London. This iconic tower, standing at over 96
+    meters tall, was built in 1859. It is known for the sound of its bells resonating
+    throughout the city.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -33982,8 +33988,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -38896,7 +38902,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1233130563}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -3.2}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -38904,8 +38910,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 1.6, y: 8.6}
+  m_SizeDelta: {x: 359.36, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1233130565
 MonoBehaviour:
@@ -38927,7 +38933,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: Buckingham Palace, located in London, United Kingdom, is the official residence
+    of the British monarchy. It was built in the early 18th century and serves as
+    the home for the kings and queens of England.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -38954,8 +38962,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -40130,7 +40138,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1283929707}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -4.9}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -40138,8 +40146,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 2.6, y: 12.9}
+  m_SizeDelta: {x: 428.97, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1283929709
 MonoBehaviour:
@@ -40161,7 +40169,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: The Colosseum, located in Rome, Italy, is an iconic ancient amphitheater.
+    Built in the 1st century AD, it is the largest amphitheater ever built. It was
+    used for gladiator fights and other public spectacles. Today, it is one of Rome's
+    most popular tourist attractions.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -40188,8 +40199,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -46438,7 +46449,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.5000076, y: 0.5}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1508217659
@@ -58832,7 +58843,7 @@ GameObject:
   - component: {fileID: 1938104154}
   - component: {fileID: 1938104153}
   m_Layer: 0
-  m_Name: CanvasFleur (24)
+  m_Name: colosee
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -58937,8 +58948,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: -38, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -25.978, y: 0.971}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -25.6578, y: 0.971}
+  m_SizeDelta: {x: 169.907, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1943401540
 PrefabInstance:
