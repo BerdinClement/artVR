@@ -30168,7 +30168,7 @@ GameObject:
   - component: {fileID: 966322935}
   - component: {fileID: 966322934}
   m_Layer: 0
-  m_Name: CanvasFleur (31)
+  m_Name: cn_tower
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -30191,8 +30191,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 542.3, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -17.245, y: 1.653}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -17.546, y: 1.6176}
+  m_SizeDelta: {x: 157.0005, y: 112.0092}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &966322934
 MonoBehaviour:
@@ -36870,7 +36870,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1185059401}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 2.5}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -36878,8 +36878,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 4, y: 4.4}
+  m_SizeDelta: {x: 358.09, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1185059403
 MonoBehaviour:
@@ -36901,7 +36901,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: The Basilica of Saint Peter, located in the Vatican, is one of the largest
+    churches in the world. It was built from 1506 to 1626. Saint Peter is considered
+    the first Pope. It is a highly religious monument.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -36928,8 +36930,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -43949,7 +43951,7 @@ GameObject:
   - component: {fileID: 1418888309}
   - component: {fileID: 1418888308}
   m_Layer: 0
-  m_Name: CanvasFleur (26)
+  m_Name: vatican
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -44054,8 +44056,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 35.3, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -2.338, y: 0.813}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -2.1233, y: 0.7857}
+  m_SizeDelta: {x: 145.7264, y: 90.6997}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1419287200
 GameObject:
@@ -49802,7 +49804,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1625967645}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -3.2}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -49810,8 +49812,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 4.1, y: 12}
+  m_SizeDelta: {x: 374.05, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1625967647
 MonoBehaviour:
@@ -49833,7 +49835,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: The CN Tower, located in Toronto, Canada, is an iconic symbol of the city.
+    Standing at a height of 553.3 meters, it was the world's tallest free-standing
+    structure until 2007. It is a popular tourist attraction, offering a unique view
+    of Toronto and its surroundings.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -49860,8 +49865,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 24
-  m_fontSizeBase: 24
+  m_fontSize: 14
+  m_fontSizeBase: 14
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
