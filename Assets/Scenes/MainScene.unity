@@ -10407,7 +10407,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: To navigate through the museum, you can use the joystick on the right controller.
+  m_text: 'The museum features 5 themed rooms: Ancient Greece, Egypt, Modern Art,
+    Contemporary Art, and Monuments of the World. Explore artworks and monuments
+    from around the globe !'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -53045,7 +53047,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1193495822}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -1.8}
+  m_LocalPosition: {x: 0, y: 0, z: -2.4}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -53053,7 +53055,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.6, y: 4.9}
+  m_AnchoredPosition: {x: 1.6, y: 8.3}
   m_SizeDelta: {x: 315.25, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1193495824
@@ -53077,7 +53079,8 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls: []
   m_text: 'To move from one room to another, you can use the menu. To display it:
-    press the A button on the right controller.'
+    press the A button on the right controller. Click on the button of your choice,
+    and you will be teleported directly to the room.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -69672,8 +69675,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: We'll let you discover the rest! Behind the panel are all the monuments
-    of the world!
+  m_text: You can now navigate through the museum using the joystick. Behind the
+    entrance lie the monuments of the world, go explore !
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -73698,8 +73701,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Welcome to our virtual museum! Explore ancient Egypt, modern art, ancient
-    Greece, contemporary art, and all the wonders of the world !
+  m_text: 'Welcome to our virtual museum! To start the instructions, teleport to
+    the blue zone: push the joystick forward into the blue zone.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -91690,8 +91693,8 @@ Transform:
   m_GameObject: {fileID: 8190153639739305823}
   serializedVersion: 2
   m_LocalRotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
-  m_LocalPosition: {x: 70, y: 10, z: -30.56}
-  m_LocalScale: {x: 0.3, y: 28.4403, z: 10}
+  m_LocalPosition: {x: 70, y: 10, z: -30.655}
+  m_LocalScale: {x: 0.3, y: 28.346447, z: 10}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 543450652109173642}
