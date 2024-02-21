@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028326, g: 0.22571333, b: 0.30692202, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -18392,6 +18392,7 @@ GameObject:
   - component: {fileID: 406072785}
   - component: {fileID: 406072784}
   - component: {fileID: 406072783}
+  - component: {fileID: 406072786}
   m_Layer: 0
   m_Name: ButtonEgypt
   m_TagString: Untagged
@@ -18462,7 +18463,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 406072784}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 406072786}
+        m_TargetAssemblyTypeName: MenuTpLogicScript, Assembly-CSharp
+        m_MethodName: TpToEgypt
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &406072784
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -18501,6 +18514,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 406072781}
   m_CullTransparentMesh: 1
+--- !u!114 &406072786
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 406072781}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97ebec5c467ec4184b207c7750b1561a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &406801466
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -41354,6 +41379,7 @@ GameObject:
   - component: {fileID: 1002480989}
   - component: {fileID: 1002480988}
   - component: {fileID: 1002480987}
+  - component: {fileID: 1002480990}
   m_Layer: 0
   m_Name: ButtonModern
   m_TagString: Untagged
@@ -41424,7 +41450,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1002480988}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1002480990}
+        m_TargetAssemblyTypeName: MenuTpLogicScript, Assembly-CSharp
+        m_MethodName: TpToModern
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1002480988
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -41463,6 +41501,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1002480985}
   m_CullTransparentMesh: 1
+--- !u!114 &1002480990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1002480985}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97ebec5c467ec4184b207c7750b1561a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1003707892
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -52270,6 +52320,7 @@ GameObject:
   - component: {fileID: 1275234430}
   - component: {fileID: 1275234429}
   - component: {fileID: 1275234428}
+  - component: {fileID: 1275234431}
   m_Layer: 0
   m_Name: ButtonComPop
   m_TagString: Untagged
@@ -52340,7 +52391,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1275234429}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1275234431}
+        m_TargetAssemblyTypeName: MenuTpLogicScript, Assembly-CSharp
+        m_MethodName: TpToComporary
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1275234429
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -52379,6 +52442,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1275234426}
   m_CullTransparentMesh: 1
+--- !u!114 &1275234431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1275234426}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97ebec5c467ec4184b207c7750b1561a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1276839434
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -58938,6 +59013,7 @@ GameObject:
   - component: {fileID: 1444168758}
   - component: {fileID: 1444168757}
   - component: {fileID: 1444168756}
+  - component: {fileID: 1444168759}
   m_Layer: 0
   m_Name: ButtonGrece
   m_TagString: Untagged
@@ -59008,7 +59084,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1444168757}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1444168759}
+        m_TargetAssemblyTypeName: MenuTpLogicScript, Assembly-CSharp
+        m_MethodName: TpToGreek
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1444168757
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -59047,6 +59135,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1444168754}
   m_CullTransparentMesh: 1
+--- !u!114 &1444168759
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1444168754}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97ebec5c467ec4184b207c7750b1561a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1458246788
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -64635,6 +64735,7 @@ GameObject:
   - component: {fileID: 1606137604}
   - component: {fileID: 1606137603}
   - component: {fileID: 1606137602}
+  - component: {fileID: 1606137605}
   m_Layer: 0
   m_Name: ButtonWorld
   m_TagString: Untagged
@@ -64705,7 +64806,19 @@ MonoBehaviour:
   m_TargetGraphic: {fileID: 1606137603}
   m_OnClick:
     m_PersistentCalls:
-      m_Calls: []
+      m_Calls:
+      - m_Target: {fileID: 1606137605}
+        m_TargetAssemblyTypeName: MenuTpLogicScript, Assembly-CSharp
+        m_MethodName: TpToWorld
+        m_Mode: 1
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 0
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!114 &1606137603
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -64744,6 +64857,18 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1606137600}
   m_CullTransparentMesh: 1
+--- !u!114 &1606137605
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1606137600}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 97ebec5c467ec4184b207c7750b1561a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1001 &1614182265
 PrefabInstance:
   m_ObjectHideFlags: 0
