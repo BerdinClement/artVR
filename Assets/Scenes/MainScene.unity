@@ -44648,7 +44648,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   panel: {fileID: 1879765201}
-  canvas: {fileID: 1249912727}
+  canvas: {fileID: 355565458}
 --- !u!1 &1081213578
 GameObject:
   m_ObjectHideFlags: 0
