@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028331, g: 0.2257133, b: 0.3069217, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -924,7 +924,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 17449981}
   m_LocalRotation: {x: 0.09096818, y: -0.70123094, z: 0.08686669, w: 0.7017508}
-  m_LocalPosition: {x: 0, y: 0, z: -9.11}
+  m_LocalPosition: {x: 0, y: 0, z: -8.6194}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -933,8 +933,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: -90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 11.33, y: 1.19}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 11.3654, y: 1.0527}
+  m_SizeDelta: {x: 193.7967, y: 146.4084}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &17449983
 MonoBehaviour:
@@ -6148,7 +6148,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -46.4, y: 15.9}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &138835753
@@ -6171,7 +6171,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'L''Arbre et les Rochers, Anthony Abdel Karim
+
+    2019
+
+
+    Through his
+    use of color, texture, and composition, Abdel Karim invites viewers to contemplate
+    the harmony between the natural elements. L''Arbre et les Rochers showcases Abdel
+    Karim''s ability to evoke emotion and create a sense of atmosphere through his
+    art.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6234,7 +6243,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -286.83893, w: -2.1553364}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -14954,7 +14963,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 335658672}
   m_LocalRotation: {x: 0.09096818, y: -0.70123094, z: 0.08686669, w: 0.7017508}
-  m_LocalPosition: {x: 0, y: 0, z: -14.728}
+  m_LocalPosition: {x: 0, y: 0, z: -14.29}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -14963,8 +14972,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: -90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 11.322, y: 1.222}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 11.3524, y: 1.1042}
+  m_SizeDelta: {x: 183.7343, y: 139.742}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &335658674
 MonoBehaviour:
@@ -17813,7 +17822,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 391559475}
   m_LocalRotation: {x: 0.12574825, y: 0.00036761368, z: -0.002900192, w: 0.9920579}
-  m_LocalPosition: {x: 0, y: 0, z: -5.896}
+  m_LocalPosition: {x: 0, y: 0, z: -5.9157}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -17822,8 +17831,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 0, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 23.857, y: 1.107}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 24.2062, y: 1.0301}
+  m_SizeDelta: {x: 166.7518, y: 125.7887}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &393595378
 GameObject:
@@ -31711,7 +31720,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 785367343}
   m_LocalRotation: {x: 0.12574825, y: 0.00036761368, z: -0.002900192, w: 0.9920579}
-  m_LocalPosition: {x: 0, y: 0, z: -16.93}
+  m_LocalPosition: {x: 0, y: 0, z: -16.9567}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -31720,8 +31729,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 0, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 24.58, y: 1.03}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 24.902, y: 0.9265}
+  m_SizeDelta: {x: 161.5721, y: 135.0615}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &785367345
 MonoBehaviour:
@@ -39274,7 +39283,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 955501901}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -39282,7 +39291,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -33.1, y: 17.4}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &955501903
@@ -39305,7 +39314,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Whaam!, Roy Lichtenstein
+
+    1963
+
+
+    The painting depicts an aerial
+    combat scene inspired by comic book panels. ''Whaam!'' exemplifies Lichtenstein''s
+    exploration of popular culture and his ability to transform mundane imagery into
+    high art.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -39368,7 +39385,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -201.87428, w: -2.1553364}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -40936,7 +40953,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 986637236}
   m_LocalRotation: {x: 0.12574825, y: 0.00036761368, z: -0.002900192, w: 0.9920579}
-  m_LocalPosition: {x: 0, y: 0, z: -5.888}
+  m_LocalPosition: {x: 0, y: 0, z: -5.9207}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -40945,8 +40962,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 0, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 18.052, y: 1.14}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 18.371, y: 1.0132}
+  m_SizeDelta: {x: 161.0433, y: 143.1146}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &986637238
 MonoBehaviour:
@@ -41510,7 +41527,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -36.1, y: 11.3}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1000703228
@@ -41533,7 +41550,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "Monalisa, Fernando Botero\n1959\n\nIt is an oil on canvas, exposed to\r\nMuseum
+    of Modern Art, New York. He is renowned for his characters with shapes\r round
+    and voluptuous. The Mona Lisa is not the only painting from which he took inspiration
+    for\r paint your own pictures."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -41596,7 +41616,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -219.29527, w: -2.1553364}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -82686,7 +82706,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -32.3, y: 12.7}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2091042802
@@ -82709,7 +82729,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Balloon Dog
+
+    1994-2000
+
+
+    This sculpture is part of Koons'' ''Celebration''
+    series, which explores themes of childhood, innocence, and consumer culture.
+    ''Balloon Dog'' is a monumental stainless steel sculpture that replicates the
+    form of a twisted balloon animal.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -82772,7 +82800,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -198.97299, w: -2.1553364}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -83975,7 +84003,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2117092997}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -83983,7 +84011,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -43, y: 16.8}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2117092999
@@ -84006,7 +84034,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Margarethe
+
+    1981
+
+
+    The title refers to Margarethe von Trotta,
+    a character from Goethe''s play ''Faust,'' symbolizing the eternal feminine and
+    the German spirit. Kiefer''s use of materials such as lead, straw, and ash adds
+    depth and texture to the painting, creating a haunting and evocative atmosphere.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -84069,7 +84105,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -256.2298, w: -2.1553364}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
