@@ -149,7 +149,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6444617}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -157,7 +157,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -38.8, y: 3.9}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &6444619
@@ -180,7 +180,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Star Wars
+
+    1977
+
+
+    "Star Wars" is an iconic film saga that has
+    had a massive cultural impact due to its rich universe, universal themes, and
+    influence on arts and entertainment.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -243,7 +250,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -237.23984, w: -2.1553364}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -7227,7 +7234,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 177898565}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0.00015376}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7235,7 +7242,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -30.5, y: 0.0000059605}
+  m_AnchoredPosition: {x: -30.3, y: 7.6}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &177898567
@@ -7258,14 +7265,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Untitled
+  m_text: 'Untitled, Jean-Michel Basquiat
 
     1980s
 
 
-    Basquiat''s ''Untitled'' works often explore
-    themes of race, identity, and social injustice, reflecting his experiences as
-    a Black artist in New York City during a tumultuous period in American history.'
+    Basquiat''s ''Untitled''
+    works often explore themes of race, identity, and social injustice, reflecting
+    his experiences as a Black artist in New York City during a tumultuous period
+    in American history.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -15114,15 +15122,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Flowers
+  m_text: 'Flowers, Yayoi Kusama
 
     1964
 
 
-    Kusama''s flowers are often depicted with bold,
-    repetitive patterns, reflecting her fascination with the infinite and the concept
-    of eternity. ''Flowers'' is emblematic of Kusama''s exploration of themes such
-    as obsession, identity, and the interconnectedness of all living beings.'
+    Kusama''s flowers are often depicted
+    with bold, repetitive patterns, reflecting her fascination with the infinite
+    and the concept of eternity. ''Flowers'' is emblematic of Kusama''s exploration
+    of themes such as obsession, identity, and the interconnectedness of all living
+    beings.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -21457,7 +21466,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 478475289}
   m_LocalRotation: {x: 0.09096818, y: -0.70123094, z: 0.08686669, w: 0.7017508}
-  m_LocalPosition: {x: 0, y: 0, z: -28.566}
+  m_LocalPosition: {x: 0, y: 0, z: -28.9443}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -21466,8 +21475,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: -90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -7.471, y: 0.527}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -7.4587, y: 0.4782}
+  m_SizeDelta: {x: 172.2974, y: 115.0928}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &478475291
 MonoBehaviour:
@@ -23756,7 +23765,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 531175874}
   m_LocalRotation: {x: 0.08686669, y: 0.7017508, z: -0.09096818, w: 0.70123094}
-  m_LocalPosition: {x: 0, y: 0, z: -41.522}
+  m_LocalPosition: {x: 0, y: 0, z: -41.0967}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -23765,8 +23774,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4.8, y: 0.535}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 4.7702, y: 0.4193}
+  m_SizeDelta: {x: 181.0262, y: 140.7222}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &531175876
 MonoBehaviour:
@@ -26175,7 +26184,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 607523346}
   m_LocalRotation: {x: 0.08686669, y: 0.7017508, z: -0.09096818, w: 0.70123094}
-  m_LocalPosition: {x: 0, y: 0, z: -34.888}
+  m_LocalPosition: {x: 0, y: 0, z: -34.5095}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -26184,8 +26193,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 4.81, y: 0.573}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 4.7743, y: 0.4345}
+  m_SizeDelta: {x: 172.0869, y: 148.4863}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &607523348
 MonoBehaviour:
@@ -28353,7 +28362,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -67.3, y: 11.7}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &666366448
@@ -28376,7 +28385,18 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Game Of Thrones
+
+    2011
+
+
+    "Game of Thrones" is a fantasy television
+    series based on George R. R. Martin''s "A Song of Ice and Fire" novels. The show
+    has had a significant impact on society, sparking discussions on power, morality,
+    and the human condition while also influencing popular culture and television
+    storytelling.
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -28439,7 +28459,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -392.43567, w: -2.1553364}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -29967,7 +29987,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 709827549}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -29975,7 +29995,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -57.3, y: 6.4}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &709827551
@@ -29998,7 +30018,9 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "Doctor Who\n1963  - Now\n\n\rThe show has had a profound impact on society,
+    inspiring generations of viewers with its imaginative storytelling, iconic characters,
+    and exploration of themes such as friendship, heroism, and the nature of existence.\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -30061,7 +30083,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -334.52576, w: -2.1553364}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -31531,13 +31553,13 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Pumpkin
+  m_text: 'Pumpkin, Yayoi Kusama
 
     Year of creation not specified
 
 
-    Kusama''s pumpkins,
-    often depicted in paintings, sculptures, and installations, are characterized
+    Kusama''s
+    pumpkins, often depicted in paintings, sculptures, and installations, are characterized
     by their whimsical and vibrant presence. The pumpkin serves as a symbol of growth,
     fertility, and the cycle of life in Kusama''s work.'
   m_isRightToLeft: 0
@@ -38362,7 +38384,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -43.4, y: 20.8}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &933325791
@@ -38385,7 +38407,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Back to The Future
+
+    1985
+
+
+    "Back to the Future" is a classic science
+    fiction film trilogy directed by Robert Zemeckis.  "Back to the Future" has had
+    a significant impact on popular culture, inspiring countless references, merchandise,
+    and even influencing real-world technology and scientific discussions about time
+    travel.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -38448,7 +38479,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -252.66064, w: -2.1553364}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -50275,7 +50306,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1209742564}
   m_LocalRotation: {x: 0.09096818, y: -0.70123094, z: 0.08686669, w: 0.7017508}
-  m_LocalPosition: {x: 0, y: 0, z: -43.45}
+  m_LocalPosition: {x: 0, y: 0, z: -42.8692}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -50284,8 +50315,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: -90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -7.493, y: 0.611}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -7.4707, y: 0.5241}
+  m_SizeDelta: {x: 210.9421, y: 128.8052}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1209742566
 MonoBehaviour:
@@ -50759,7 +50790,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 8e00e3e0b974d5d44a83294f231ccae7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: 3
+  speed: 10
 --- !u!1 &1223324069
 GameObject:
   m_ObjectHideFlags: 0
@@ -56411,15 +56442,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Crown
+  m_text: 'Crown, Jean-Michel Basquiat
 
     1983
 
 
-    The crown symbolizes themes of power, authority,
-    and royalty, while also serving as a commentary on race and identity. Basquiat''s
-    use of bold colors, expressive lines, and text in ''Crown'' exemplifies his unique
-    artistic style and his ability to convey complex ideas through visual imagery.'
+    The crown symbolizes themes
+    of power, authority, and royalty, while also serving as a commentary on race
+    and identity. Basquiat''s use of bold colors, expressive lines, and text in ''Crown''
+    exemplifies his unique artistic style and his ability to convey complex ideas
+    through visual imagery.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -60278,7 +60310,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1478483839}
   m_LocalRotation: {x: 0.08686669, y: 0.7017508, z: -0.09096818, w: 0.70123094}
-  m_LocalPosition: {x: 0, y: 0, z: -26.2291}
+  m_LocalPosition: {x: 0, y: 0, z: -26.2295}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -60287,8 +60319,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 33.8934, y: 0.8396}
-  m_SizeDelta: {x: 160.2616, y: 132.2684}
+  m_AnchoredPosition: {x: 33.9111, y: 0.9083}
+  m_SizeDelta: {x: 160.2616, y: 108.5916}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1478483841
 MonoBehaviour:
@@ -61733,10 +61765,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Maggie\u2019s Brain\n1995\n\nSince the 1980s Christopher Wool has critically
-    examined the complexities of abstraction and representation through the use of
-    techniques, processes, images, and language taken from popular and vernacular
-    culture."
+  m_text: "Maggie\u2019s Brain, Christopher Wool\n1995\n\nSince the 1980s Christopher
+    Wool has critically examined the complexities of abstraction and representation
+    through the use of techniques, processes, images, and language taken from popular
+    and vernacular culture."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -64344,7 +64376,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1584417141}
   m_LocalRotation: {x: 0.09096818, y: -0.70123094, z: 0.08686669, w: 0.7017508}
-  m_LocalPosition: {x: 0, y: 0, z: -34.599}
+  m_LocalPosition: {x: 0, y: 0, z: -35.2774}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -64353,8 +64385,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: -90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -7.48, y: 0.561}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: -7.4569, y: 0.4713}
+  m_SizeDelta: {x: 229.3659, y: 132.2258}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1584417143
 MonoBehaviour:
@@ -69021,15 +69053,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'The Little Girl and the Balloon
+  m_text: 'The Little Girl and the Balloon, Banksy
 
     2002
 
 
-    The image is often interpreted
-    as a symbol of innocence, hope, and fleeting childhood dreams. ''The Little Girl
-    and the Balloon'' has become one of Banksy''s most iconic and widely recognized
-    works, captivating viewers with its simple yet powerful imagery.'
+    The image is often
+    interpreted as a symbol of innocence, hope, and fleeting childhood dreams. ''The
+    Little Girl and the Balloon'' has become one of Banksy''s most iconic and widely
+    recognized works, captivating viewers with its simple yet powerful imagery.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -74094,15 +74126,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Boy and Dog in a Johnnypump
+  m_text: 'Boy and Dog in a Johnnypump, Jean-Michel Basquiat
 
-    Year of creation not specified
+    Year of creation
+    not specified
 
 
-    Basquiat''s
-    work often explores themes of identity, race, and social commentary, and ''Boy
-    and Dog in a Johnnypump'' is no exception, reflecting the artist''s engagement
-    with the cultural landscape of his time.'
+    Basquiat''s work often explores themes of identity, race,
+    and social commentary, and ''Boy and Dog in a Johnnypump'' is no exception, reflecting
+    the artist''s engagement with the cultural landscape of his time.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -76496,7 +76528,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1896558053}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -76504,7 +76536,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -39.8, y: 17.4}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1896558055
@@ -76527,7 +76559,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Harry potter, J. K. Rowling
+
+    2001
+
+
+    The series explores themes
+    of friendship, bravery, and the battle between good and evil, primarily against
+    the dark wizard Voldemort. "Harry Potter" has had a massive impact on society,
+    inspiring a devoted fanbase, spawning spin-off works, theme parks, and merchandise,
+    and influencing popular culture worldwide.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -76590,7 +76631,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -235.63359, w: -2.1553364}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -82729,15 +82770,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Balloon Dog
+  m_text: 'Balloon Dog, Jeff Koons
 
     1994-2000
 
 
-    This sculpture is part of Koons'' ''Celebration''
-    series, which explores themes of childhood, innocence, and consumer culture.
-    ''Balloon Dog'' is a monumental stainless steel sculpture that replicates the
-    form of a twisted balloon animal.'
+    This sculpture is part of
+    Koons'' ''Celebration'' series, which explores themes of childhood, innocence,
+    and consumer culture. ''Balloon Dog'' is a monumental stainless steel sculpture
+    that replicates the form of a twisted balloon animal.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -84034,15 +84075,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Margarethe
+  m_text: 'Margarethe, Anselm Kiefer
 
     1981
 
 
-    The title refers to Margarethe von Trotta,
-    a character from Goethe''s play ''Faust,'' symbolizing the eternal feminine and
-    the German spirit. Kiefer''s use of materials such as lead, straw, and ash adds
-    depth and texture to the painting, creating a haunting and evocative atmosphere.'
+    The title refers to Margarethe
+    von Trotta, a character from Goethe''s play ''Faust,'' symbolizing the eternal
+    feminine and the German spirit. Kiefer''s use of materials such as lead, straw,
+    and ash adds depth and texture to the painting, creating a haunting and evocative
+    atmosphere.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
