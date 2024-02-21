@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028326, g: 0.22571333, b: 0.30692202, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028331, g: 0.2257133, b: 0.3069217, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -405,7 +405,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 11037411}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -413,7 +413,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -24.7, y: 18.3}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &11037413
@@ -436,7 +436,19 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Intricately Detailed Digital Oil Painting, Yayoi Kusama
+
+    Year of creation
+    not specified
+
+
+    Known for her bold and vibrant use of color, Kusama''s digital
+    paintings often feature mesmerizing patterns and motifs that reflect her distinctive
+    style. Iit undoubtedly embodies Kusama''s signature aesthetic and innovative
+    approach to art.
+
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -499,7 +511,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -165.1016, w: -51.831448}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1354,7 +1366,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 24567143}
   m_LocalRotation: {x: 0.08686669, y: 0.7017508, z: -0.09096818, w: 0.70123094}
-  m_LocalPosition: {x: 0, y: 0, z: -43.864}
+  m_LocalPosition: {x: 0, y: 0, z: -44.153}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1363,8 +1375,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 33.962, y: 0.821}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 33.9408, y: 0.7386}
+  m_SizeDelta: {x: 155.2355, y: 127.8249}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &24567145
 MonoBehaviour:
@@ -2741,7 +2753,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 60722242}
   m_LocalRotation: {x: 0.08686669, y: 0.7017508, z: -0.09096818, w: 0.70123094}
-  m_LocalPosition: {x: 0, y: 0, z: -10.79}
+  m_LocalPosition: {x: 0, y: 0, z: -11.075}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -2750,8 +2762,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 33.95, y: 1.02}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 33.9293, y: 0.9398}
+  m_SizeDelta: {x: 154.471, y: 127.1109}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &68436836
 GameObject:
@@ -3633,7 +3645,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 84070886}
   m_LocalRotation: {x: -0.002900192, y: 0.9920579, z: -0.12574825, w: -0.00036761368}
-  m_LocalPosition: {x: 0, y: 0, z: -47.707}
+  m_LocalPosition: {x: 0, y: 0, z: -47.6844}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -3642,8 +3654,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 180, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 27.52, y: 0.904}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 27.081, y: 0.8166}
+  m_SizeDelta: {x: 183.8684, y: 129.3048}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &84070888
 MonoBehaviour:
@@ -6522,7 +6534,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 157276690}
   m_LocalRotation: {x: -0.089579, y: 0.71227276, z: -0.08829859, w: -0.6905407}
-  m_LocalPosition: {x: 0, y: 0, z: -37.129}
+  m_LocalPosition: {x: 0, y: 0, z: -36.758}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -6531,8 +6543,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 268.182, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 7.519, y: 0.904}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 7.5339, y: 0.8004}
+  m_SizeDelta: {x: 170.7991, y: 135.008}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &157276692
 MonoBehaviour:
@@ -7206,7 +7218,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 177898565}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0.00015376}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7214,7 +7226,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -30.5, y: 0.0000059605}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &177898567
@@ -7237,7 +7249,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Untitled
+
+    1980s
+
+
+    Basquiat''s ''Untitled'' works often explore
+    themes of race, identity, and social injustice, reflecting his experiences as
+    a Black artist in New York City during a tumultuous period in American history.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7300,7 +7319,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -199.07622, w: -18.405632}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -8873,7 +8892,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 219946604}
   m_LocalRotation: {x: -0.002900192, y: 0.9920579, z: -0.12574825, w: -0.00036761368}
-  m_LocalPosition: {x: 0, y: 0, z: -47.707}
+  m_LocalPosition: {x: 0, y: 0, z: -47.6774}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -8882,8 +8901,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 180, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 10.376, y: 0.904}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 10.056, y: 0.7891}
+  m_SizeDelta: {x: 161.2044, y: 138.9643}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &219946606
 MonoBehaviour:
@@ -9339,7 +9358,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -39.3, y: 14.4}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &227026278
@@ -9362,7 +9381,18 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Flower, Takashi Murakami
+
+    Year of creation not specified
+
+
+    The
+    flower serves as a symbol of beauty, life, and the cycle of nature in Murakami''s
+    work. Whether rendered in traditional Japanese styles or infused with contemporary
+    elements, Murakami''s flowers exude a sense of joy and whimsy that is central
+    to his artistic vision.
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -9425,7 +9455,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -249.01723, w: -41.21759}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -10528,7 +10558,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -33.6, y: 11}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &253373330
@@ -10551,7 +10581,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Portrait of Basquiat, Benny The Kid
+
+    Year of creation not specified
+
+
+    This
+    piece depicts the renowned artist Jean-Michel Basquiat, known for his neo-expressionist
+    paintings that often blend graffiti with abstraction. It likely captures the
+    essence of Basquiat''s enigmatic persona and artistic legacy.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10614,7 +10652,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -215.59802, w: -42.15661}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -13041,7 +13079,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 304009099}
   m_LocalRotation: {x: 0.08686669, y: 0.7017508, z: -0.09096818, w: 0.70123094}
-  m_LocalPosition: {x: 0, y: 0, z: -15.831}
+  m_LocalPosition: {x: 0, y: 0, z: -16.2889}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -13050,8 +13088,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 33.938, y: 0.989}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 33.9089, y: 0.8763}
+  m_SizeDelta: {x: 187.5163, y: 137.9704}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &304009101
 MonoBehaviour:
@@ -13626,7 +13664,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 316657445}
   m_LocalRotation: {x: 0.08686669, y: 0.7017508, z: -0.09096818, w: 0.70123094}
-  m_LocalPosition: {x: 0, y: 0, z: -35.543}
+  m_LocalPosition: {x: 0, y: 0, z: -35.7435}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -13635,8 +13673,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 19.268, y: 0.904}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 19.2471, y: 0.823}
+  m_SizeDelta: {x: 138.3713, y: 127.5206}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &316657447
 MonoBehaviour:
@@ -13748,7 +13786,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 318719974}
   m_LocalRotation: {x: -0.002900192, y: 0.9920579, z: -0.12574825, w: -0.00036761368}
-  m_LocalPosition: {x: 0, y: 0, z: -47.707}
+  m_LocalPosition: {x: 0, y: 0, z: -47.6741}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -13757,8 +13795,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 180, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 16.19, y: 0.904}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 15.8798, y: 0.7765}
+  m_SizeDelta: {x: 159.3534, y: 143.3572}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &318719976
 MonoBehaviour:
@@ -14921,7 +14959,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 339530016}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -14929,7 +14967,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -30.3, y: 22.4}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &339530018
@@ -14952,7 +14990,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Flowers
+
+    1964
+
+
+    Kusama''s flowers are often depicted with bold,
+    repetitive patterns, reflecting her fascination with the infinite and the concept
+    of eternity. ''Flowers'' is emblematic of Kusama''s exploration of themes such
+    as obsession, identity, and the interconnectedness of all living beings.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -15015,7 +15061,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -19.78247, y: -16.787634, z: -191.58504, w: -2.1553364}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -17204,7 +17250,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 381527838}
   m_LocalRotation: {x: 0.08686669, y: 0.7017508, z: -0.09096818, w: 0.70123094}
-  m_LocalPosition: {x: 0, y: 0, z: -36.181}
+  m_LocalPosition: {x: 0, y: 0, z: -36.3741}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -17213,8 +17259,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 33.904, y: 0.876}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 33.894, y: 0.8374}
+  m_SizeDelta: {x: 136.9, y: 112.9322}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &381527840
 MonoBehaviour:
@@ -17692,7 +17738,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 393595378}
   m_LocalRotation: {x: -0.089579, y: 0.71227276, z: -0.08829859, w: -0.6905407}
-  m_LocalPosition: {x: 0, y: 0, z: -42.835}
+  m_LocalPosition: {x: 0, y: 0, z: -42.347}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -17701,8 +17747,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 268.182, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 7.519, y: 0.904}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 7.5516, y: 0.7175}
+  m_SizeDelta: {x: 193.1052, y: 163.3551}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &393595380
 MonoBehaviour:
@@ -20073,7 +20119,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -42.6, y: 14.3}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &445126004
@@ -20096,7 +20142,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Crayon Boy, Banksy
+
+    2011
+
+
+    The image serves as a commentary on
+    the impact of violence on children and the loss of innocence in conflict zones.
+    ''Crayon Boy'' is a powerful representation of Banksy''s ability to convey profound
+    messages through simple yet evocative imagery.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -20159,7 +20213,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -255.38553, w: -35.083233}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -23274,7 +23328,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -18.2, y: 6}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &528113984
@@ -23297,7 +23351,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Coca-Cola 3, Andy Warhol
+
+    1962
+
+
+    Warhol''s fascination with consumer
+    culture and mass production is evident in this series, as he sought to elevate
+    everyday objects to the status of art.
+
+'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -23360,7 +23423,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -126.32184, w: -2.1553364}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -27300,7 +27363,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -38.2, y: 21.3}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &632447138
@@ -27323,7 +27386,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Stravinsky''s fountain, Jean Tinguely & Niki de Saint Phalle
+
+    1983
+
+
+    The
+    fountain pays homage to the Russian composer Igor Stravinsky and his musical
+    work. The fountain consists of sixteen colorful kinetic sculptures representing
+    different aspects of Stravinsky''s music, including his most famous compositions
+    such as ''The Firebird'' and ''The Rite of Spring.'''
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -27386,7 +27458,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -238.29114, w: -48.98587}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -27589,7 +27661,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 642201458}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -27597,7 +27669,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -30.2, y: 10.3}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &642201460
@@ -27620,7 +27692,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "The Mild Mild West, Banksy\n1999\n\n 'The Mild Mild West' reflects Banksy's
+    signature style of combining political commentary with humor and subversion.
+    The artwork challenges traditional notions of violence and protest, offering
+    a poignant critique of societal norms and expectations."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -27683,7 +27758,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -200.07036, w: -36.79945}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -28618,7 +28693,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 680173545}
   m_LocalRotation: {x: 0.12574825, y: 0.00036761368, z: -0.002900192, w: 0.9920579}
-  m_LocalPosition: {x: 0, y: 0, z: -40.279}
+  m_LocalPosition: {x: 0, y: 0, z: -40.3019}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -28627,8 +28702,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 0, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 28.45, y: 0.768}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 28.6851, y: 0.6792}
+  m_SizeDelta: {x: 144.977, y: 130.1528}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &680173547
 MonoBehaviour:
@@ -30213,7 +30288,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 718221887}
   m_LocalRotation: {x: -0.002900192, y: 0.9920579, z: -0.12574825, w: -0.00036761368}
-  m_LocalPosition: {x: 0, y: 0, z: -36.381}
+  m_LocalPosition: {x: 0, y: 0, z: -36.3401}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -30222,8 +30297,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 180, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 12.754, y: 0.904}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 12.3675, y: 0.7451}
+  m_SizeDelta: {x: 173.9483, y: 154.018}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &718221889
 MonoBehaviour:
@@ -31196,7 +31271,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 775441239}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -31204,7 +31279,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -25.2, y: 15.3}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &775441241
@@ -31227,7 +31302,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Pumpkin
+
+    Year of creation not specified
+
+
+    Kusama''s pumpkins,
+    often depicted in paintings, sculptures, and installations, are characterized
+    by their whimsical and vibrant presence. The pumpkin serves as a symbol of growth,
+    fertility, and the cycle of life in Kusama''s work.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -31290,7 +31373,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -159.5873, w: -45.93164}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -32651,7 +32734,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 818340190}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -32659,7 +32742,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -29.1, y: 15.2}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &818340192
@@ -32682,7 +32765,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Eye Love Super Flat, Takashi Murakami
+
+    2003
+
+
+    The artwork reflects
+    Murakami''s exploration of themes such as consumerism, globalization, and the
+    blurring of high and low culture. ''Eye Love Super Flat'' is a prime example
+    of Murakami''s innovative approach to art.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -32745,7 +32836,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -183.91112, w: -2.1553364}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -37932,7 +38023,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.49999237, y: 0.5}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &932699162
@@ -38275,7 +38366,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 30143f18cc8c73c43a8dc8ee8101fe14,
         type: 3}
       propertyPath: m_LocalScale.x
-      value: 0.6010093
+      value: 1.0328946
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 30143f18cc8c73c43a8dc8ee8101fe14,
         type: 3}
@@ -38394,7 +38485,7 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 10.93, y: 4.71, z: 10.43}
+  m_Size: {x: 6.49, y: 4.62, z: 10.89}
   m_Center: {x: 0, y: 0, z: -5.54}
 --- !u!1 &936932209 stripped
 GameObject:
@@ -42172,7 +42263,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.5000076, y: 0.5}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1020145061
@@ -42604,8 +42695,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -30.5, y: 18.5}
+  m_SizeDelta: {x: 200, y: 49.99}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1035081613
 MonoBehaviour:
@@ -42627,7 +42718,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Girl Frisking Soldier, Banksy
+
+    2005
+
+
+    The artwork serves as a
+    powerful commentary on the impact of war on children and the innocence lost in
+    conflict zones. ''Girl Frisking Soldier'' is a prime example of Banksy''s ability
+    to convey profound messages through simple yet thought-provoking imagery.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -42690,7 +42789,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -194.87625, w: -41.6524}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -44632,8 +44731,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: 2.73, y: -10.74}
+  m_SizeDelta: {x: 232.55, y: 64.12}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1096910299
 MonoBehaviour:
@@ -44655,7 +44754,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'The Dance, Keith Haring
+
+    1987
+
+
+    The simple lines, colorful shapes,
+    and dynamic figures reflect the energy and movement of dance, as well as Haring''s
+    unique visual language. This artwork is an example of Haring''s commitment to
+    accessible and inclusive art, using public space to share his message of love,
+    joy, and unity.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -44718,7 +44826,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -102.18678, y: -40.511356, z: -90.48819, w: -10.651419}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -45388,7 +45496,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.49999237, y: 0.5}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1116395388
@@ -45886,7 +45994,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1121523550}
   m_LocalRotation: {x: -0.002900192, y: 0.9920579, z: -0.12574825, w: -0.00036761368}
-  m_LocalPosition: {x: 0, y: 0, z: -29.161}
+  m_LocalPosition: {x: 0, y: 0, z: -29.1406}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -45895,8 +46003,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 180, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 27.414, y: 0.873}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 27.0433, y: 0.7938}
+  m_SizeDelta: {x: 170.8369, y: 126.5803}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1121523552
 MonoBehaviour:
@@ -46583,7 +46691,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1141114573}
   m_LocalRotation: {x: 0.09096818, y: -0.70123094, z: 0.08686669, w: 0.7017508}
-  m_LocalPosition: {x: 0, y: 0, z: -38.308}
+  m_LocalPosition: {x: 0, y: 0, z: -38.0029}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -46592,8 +46700,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: -90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 21.168, y: 1.174}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 21.206, y: 1.0265}
+  m_SizeDelta: {x: 158.4094, y: 150.2637}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1141114575
 MonoBehaviour:
@@ -53687,7 +53795,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1301730920}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -53695,7 +53803,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -15.6, y: 6.5}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1301730922
@@ -53718,7 +53826,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "Campbell's Soup Cans, Andy Warhol\n1962\n\nWarhol utilized silkscreen
+    techniques to reproduce the images of the soup cans in a uniform and mechanical
+    manner, thus exploring themes of mass consumption, advertising, and the banality
+    of popular culture. \n"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -53781,7 +53892,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -28.98809, y: -22.056768, z: -115.41897, w: -47.994385}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -53829,7 +53940,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -33.1, y: 7.5}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1309766097
@@ -53852,7 +53963,14 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Flower Thrower, Banksy
+
+    2003
+
+
+    It is a powerful image that juxtaposes
+    the act of protest with symbols of peace and beauty. The artwork challenges viewers
+    to reconsider the nature of protest and the potential for non-violent resistance.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -53915,7 +54033,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -216.07921, w: -33.39982}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -55917,7 +56035,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1360813817}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -55925,7 +56043,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -45.6, y: 17.7}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1360813819
@@ -55948,7 +56066,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Crown
+
+    1983
+
+
+    The crown symbolizes themes of power, authority,
+    and royalty, while also serving as a commentary on race and identity. Basquiat''s
+    use of bold colors, expressive lines, and text in ''Crown'' exemplifies his unique
+    artistic style and his ability to convey complex ideas through visual imagery.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -56011,7 +56137,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -273.73898, w: -49.702026}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -56364,7 +56490,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1374201209}
   m_LocalRotation: {x: -0.002900192, y: 0.9920579, z: -0.12574825, w: -0.00036761368}
-  m_LocalPosition: {x: 0, y: 0, z: -47.707}
+  m_LocalPosition: {x: 0, y: 0, z: -47.7009}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -56373,8 +56499,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 180, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 22.686, y: 0.904}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 22.326, y: 0.8803}
+  m_SizeDelta: {x: 168.7293, y: 107.4655}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1374201211
 MonoBehaviour:
@@ -59702,7 +59828,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1478483839}
   m_LocalRotation: {x: 0.08686669, y: 0.7017508, z: -0.09096818, w: 0.70123094}
-  m_LocalPosition: {x: 0, y: 0, z: -25.914}
+  m_LocalPosition: {x: 0, y: 0, z: -26.2291}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -59711,8 +59837,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 33.918, y: 0.935}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 33.8934, y: 0.8396}
+  m_SizeDelta: {x: 160.2616, y: 132.2684}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1478483841
 MonoBehaviour:
@@ -59869,7 +59995,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.5000076, y: 0.5}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1487649000
@@ -61006,7 +61132,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1510104817}
   m_LocalRotation: {x: 0.12574825, y: 0.00036761368, z: -0.002900192, w: 0.9920579}
-  m_LocalPosition: {x: 0, y: 0, z: -31.078}
+  m_LocalPosition: {x: 0, y: 0, z: -31.1007}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -61015,8 +61141,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 0, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 29.775, y: 0.985}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 30.1904, y: 0.8968}
+  m_SizeDelta: {x: 179.3768, y: 129.5788}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1510104819
 MonoBehaviour:
@@ -61126,7 +61252,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1513087887}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -61134,7 +61260,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -33.7, y: 18.1}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1513087889
@@ -61157,7 +61283,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: "Maggie\u2019s Brain\n1995\n\nSince the 1980s Christopher Wool has critically
+    examined the complexities of abstraction and representation through the use of
+    techniques, processes, images, and language taken from popular and vernacular
+    culture."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -61220,7 +61349,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -203.57597, w: -2.1553364}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -64017,7 +64146,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.49999237, y: 0.5}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1593105647
@@ -65018,7 +65147,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.5, y: 0.5}
+  m_AnchoredPosition: {x: -0.49999237, y: 0.5}
   m_SizeDelta: {x: -1, y: -1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1001 &1618676740
@@ -68209,7 +68338,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -28.5, y: 13.6}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1695086547
@@ -68232,7 +68361,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'The Little Girl and the Balloon
+
+    2002
+
+
+    The image is often interpreted
+    as a symbol of innocence, hope, and fleeting childhood dreams. ''The Little Girl
+    and the Balloon'' has become one of Banksy''s most iconic and widely recognized
+    works, captivating viewers with its simple yet powerful imagery.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -68295,7 +68432,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -179.65378, w: -2.1553364}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -68596,7 +68733,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1704307990}
   m_LocalRotation: {x: 0.08686669, y: 0.7017508, z: -0.09096818, w: 0.70123094}
-  m_LocalPosition: {x: 0, y: 0, z: -20.99}
+  m_LocalPosition: {x: 0, y: 0, z: -21.2967}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -68605,8 +68742,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 33.93, y: 0.96}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 33.9057, y: 0.8657}
+  m_SizeDelta: {x: 158.6494, y: 131.8976}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1704307992
 MonoBehaviour:
@@ -68876,7 +69013,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1714822801}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0.000014901}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -68885,8 +69022,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.5, y: 0.5}
-  m_SizeDelta: {x: -1, y: -1}
+  m_AnchoredPosition: {x: -0.00019836426, y: 0}
+  m_SizeDelta: {x: -0.000038147, y: -0.0000076294}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &1719118998
 GameObject:
@@ -73169,8 +73306,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -29.6, y: 13.6}
+  m_SizeDelta: {x: 200, y: 50.82}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1812602159
 MonoBehaviour:
@@ -73192,7 +73329,15 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Boy and Dog in a Johnnypump
+
+    Year of creation not specified
+
+
+    Basquiat''s
+    work often explores themes of identity, race, and social commentary, and ''Boy
+    and Dog in a Johnnypump'' is no exception, reflecting the artist''s engagement
+    with the cultural landscape of his time.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -73255,7 +73400,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -188.54985, w: -40.494904}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -74442,7 +74587,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1855985305}
   m_LocalRotation: {x: -0.089579, y: 0.71227276, z: -0.08829859, w: -0.6905407}
-  m_LocalPosition: {x: 0, y: 0, z: -32.145}
+  m_LocalPosition: {x: 0, y: 0, z: -31.7999}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -74451,8 +74596,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 268.182, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 7.519, y: 0.904}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 7.5477, y: 0.7504}
+  m_SizeDelta: {x: 165.8156, y: 152.2928}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1855985307
 MonoBehaviour:
@@ -75442,7 +75587,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1882501262}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0.000060468}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -75450,7 +75595,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -38.2, y: 25}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1882501264
@@ -75473,7 +75618,17 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Marilyn Monroe, Andy Warhol
+
+    1960s
+
+
+    Andy Warhol created several
+    works featuring the actress Marilyn Monroe in the 1960s. Warhol was fascinated
+    by celebrity and mass culture, and he used Marilyn Monroe''s image as a symbol
+    of celebrity and icon of popular culture. Warhol''s representations of Marilyn
+    Monroe have become iconic works of art, symbolizing the fusion of celebrity,
+    mass consumption, and contemporary art.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -75536,7 +75691,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -239.22942, w: -60.70704}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -76027,7 +76182,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1908989319}
   m_LocalRotation: {x: 0.09096818, y: -0.70123094, z: 0.08686669, w: 0.7017508}
-  m_LocalPosition: {x: 0, y: 0, z: -33.618}
+  m_LocalPosition: {x: 0, y: 0, z: -33.3639}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -76036,8 +76191,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: -90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 21.175, y: 1.147}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 21.2025, y: 1.0402}
+  m_SizeDelta: {x: 148.6081, y: 136.3133}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1908989321
 MonoBehaviour:
@@ -76239,7 +76394,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1910145756}
   m_LocalRotation: {x: 0.12574825, y: 0.00036761368, z: -0.002900192, w: 0.9920579}
-  m_LocalPosition: {x: 0, y: 0, z: -5.904}
+  m_LocalPosition: {x: 0, y: 0, z: -5.9339}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -76248,8 +76403,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 0, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 29.564, y: 1.075}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 29.9054, y: 0.959}
+  m_SizeDelta: {x: 165.2834, y: 139.3461}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1910145758
 MonoBehaviour:
@@ -76359,7 +76514,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1911364686}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0.000031098}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -76367,7 +76522,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -45.7, y: 25}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1911364688
@@ -76390,7 +76545,17 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Heart, Keith Haring
+
+    1987
+
+
+    Haring was known for his simple and
+    accessible visual language, using geometric shapes and bright colors to convey
+    universal emotions and ideas. In ''Heart,'' Haring presents the heart in a dynamic
+    and expressive style, reflecting his desire to convey positive and inclusive
+    messages through his art, symbolizing his commitment to love, compassion, and
+    unity.'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -76453,7 +76618,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -16.165375, y: -16.787634, z: -276.808, w: -67.005974}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -78800,7 +78965,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1977449771}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: -0}
   m_LocalScale: {x: 0.3592805, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -78808,7 +78973,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 1.3, y: -7}
+  m_AnchoredPosition: {x: -33.2, y: 9.2}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1977449773
@@ -78831,7 +78996,16 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Antoine trop beau
+  m_text: 'Acrobats in Color, Keith Haring
+
+    1985
+
+
+    The dynamic and expressive
+    figures illustrate Haring''s distinctive style, which combined urban art, graffiti,
+    and sign language. This work, like many others by Haring, conveys messages of
+    joy, movement, and freedom, reflecting his commitment to accessible and inclusive
+    art. '
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -78894,7 +79068,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: -16.165375, y: -16.787634, z: -7.9173317, w: -2.1553364}
+  m_margin: {x: -30.539337, y: -23.983717, z: -211.15768, w: -41.87963}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -83754,7 +83928,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2141867396}
   m_LocalRotation: {x: 0.08686669, y: 0.7017508, z: -0.09096818, w: 0.70123094}
-  m_LocalPosition: {x: 0, y: 0, z: -40.509}
+  m_LocalPosition: {x: 0, y: 0, z: -40.9094}
   m_LocalScale: {x: 0.010479502, y: 0.00599065, z: 0.008625103}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -83763,8 +83937,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 14.448, y: 90, z: -0.335}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 19.415, y: 0.904}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 19.3638, y: 0.7051}
+  m_SizeDelta: {x: 176.6621, y: 167.7741}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2141867398
 MonoBehaviour:
