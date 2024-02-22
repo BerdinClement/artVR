@@ -19427,6 +19427,51 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cd87d56903c606146a83fa9fe490020c, type: 3}
+--- !u!1 &429454943
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 429454945}
+  - component: {fileID: 429454944}
+  m_Layer: 0
+  m_Name: StartButtonManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &429454944
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 429454943}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ffadefe292945b14eaffb9de05d4dc66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panelToShow: {fileID: 1842561180}
+--- !u!4 &429454945
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 429454943}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -20.507748, y: 2.33349, z: -13.094481}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &437110196
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -40774,13 +40819,13 @@ MonoBehaviour:
     into a laurel tree to escape his advances. In the sculpture, Apollo is depicted
     reaching out to Daphne just as she begins her transformation into a tree.
 
+    
 
+    
 
+    
 
-
-
-
-
+    
 
 
 
@@ -87832,6 +87877,7 @@ SceneRoots:
   - {fileID: 1200519955}
   - {fileID: 486951102}
   - {fileID: 1762735024}
+  - {fileID: 429454945}
   - {fileID: 83744669}
   - {fileID: 1117272769}
   - {fileID: 1618841736}
