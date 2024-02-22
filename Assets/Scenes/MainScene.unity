@@ -44647,7 +44647,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 248bc2f5d6236d54da55dcddfcc9e975, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  panel: {fileID: 1879765201}
+  panel: {fileID: 643206806}
   canvas: {fileID: 355565458}
 --- !u!1 &1081213578
 GameObject:
